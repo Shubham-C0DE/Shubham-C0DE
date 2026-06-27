@@ -240,16 +240,6 @@ Learning
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shubham-C0DE&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
